@@ -27,8 +27,6 @@ public class Robot extends IterativeRobot {
 		myRobot.setExpiration(0.5);
 	}
 	
-	//Mistake
-	
 	/*public void autonomous(){
 		System.out.println("Robot.autonomous()");
 		
